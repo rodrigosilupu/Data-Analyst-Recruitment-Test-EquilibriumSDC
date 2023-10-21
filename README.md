@@ -1,3 +1,5 @@
+# Author: Rodrigo Silupú Peñaranda
+
 # Data-Analyst-Recruitment-Test-EquilibriumSDC
 
 Welcome applicants to Equilibrium Social Development Consulting. This repository holds a set of questions that I've prepared specifically for those aspiring for the Data Analyst position at our firm.
